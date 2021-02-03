@@ -8,5 +8,4 @@
 - 😄 Pronouns: He/Him
 - 🎸 Fun fact: Years ago I played bass for [MWK](https://en.wikipedia.org/wiki/Midwest_Kings) with [NFT](https://sitstrings.com/artists/neal-tiemann-devil-driver), [Skibby](https://concord.com/roster/andy-skib/), Robbie, [TCarter](https://musicrow.com/2020/06/travis-carter-joins-big-loud-management-team/), and [David Cook](https://www.davidcookofficial.com/).
 
-"To unpathed waters, undreamed shores." -- Shakespeare
--->
+"To unpathed waters, undreamed shores." -- William Shakespeare
