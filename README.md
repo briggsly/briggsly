@@ -1,6 +1,6 @@
 ### Hi, I'm Justin Briggs! 👋
 
-- 🦠 I’m currently working to develop novel biologic drugs for inflammatory, oncologic, and infectious diseases at [Tetherex](http://tetherex.com).
+- 🦠 I’m currently working to develop novel biologic therapeutics and vaccines for inflammatory, oncologic, and infectious diseases at [Tetherex](http://tetherex.com).
 - 🔭 I’m currently tinkering with knowledge graphs, active and representational learning, and biomolecular graph neural networks.
 - 👯 I’m looking to collaborate on teaching computers how to do science--especially to discover and develop new medicines.
 - 🎙 I podcast and write occasionally at [TomorrowScale](https://tomorrowscale.com).
