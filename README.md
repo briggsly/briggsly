@@ -8,4 +8,4 @@
 - 📫 How to reach me: jbriggs[at]tomorrowscale.org
 - 🎸 Fun fact: Years ago I played bass for [MWK](https://en.wikipedia.org/wiki/Midwest_Kings) with [Neal (NFT) Tiemann](https://sitstrings.com/artists/neal-tiemann-devil-driver), [Andy Skib](https://concord.com/roster/andy-skib/), Robbie Merrick, [Travis Carter](https://musicrow.com/2020/06/travis-carter-joins-big-loud-management-team/), and [David Cook](https://www.davidcookofficial.com/).
 
-"To unpathed waters, undreamed shores." -- William Shakespeare
+"To unpathed waters, undreamed shores!"  --  William Shakespeare
