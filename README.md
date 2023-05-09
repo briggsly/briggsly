@@ -2,7 +2,7 @@
 
 - 🧬 Currently Biologist and Partner at [Prime Movers Lab](http://primemoverslab.com) where we invest in breakthrough scientific founders developing breakthrough technologies with the potential to impact billions of lives.
 - 🦠 For the last 15 years I worked to develop novel medicines using chemistry, biology, at [Antiverse](http://antiverse.io), [Tetherex](http://tetherex.com), Moat Bio, Altheus Therapeutics, and others.
-- 🗺 I used to build and invest in optimal scientific ventures tackling the world's greatest challenges as a founder of TomorrowScale Ventures, Venture Partner at [Deep Science Ventures](http://deepscienceventures.com), and Vice President at Accele Venture Partners.
+- 🗺 I used to build and invest in optimal scientific ventures tackling the world's greatest challenges as a founder of [TomorrowScale Ventures](https://tomorrowscale.com), Venture Partner at [Deep Science Ventures](http://deepscienceventures.com), and Vice President at Accele Venture Partners.
 - 🔭 I’m tinkering with knowledge graphs, active and representational learning, and biomolecular graph neural networks.
 - 👯 I’m looking to collaborate on teaching computers how to do science--especially to discover and develop new medicines.
 - 🎙 I podcast and write occasionally at [TomorrowScale](https://tomorrowscale.com).
